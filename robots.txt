@@ -6,7 +6,4 @@ Disallow: /js/
 Disallow: /css/
 User-agent: Googlebot
 Disallow: 
-Allow: /img/
-Allow: /js/
-Allow: /css/
 Sitemap: http://www.triballive.com/sitemap.xml
